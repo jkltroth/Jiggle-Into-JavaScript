@@ -1,0 +1,14 @@
+#box{
+	height:150px; 
+	width:150px; 
+	background-color:orange; 
+	margin:25px;
+}
+
+#nameDisplay{
+	color:white;
+	text-align:center;
+	line-height:150px;
+	font-family:Tahoma,Geneva,sans-serif;
+	font-size:1.5em;
+}
